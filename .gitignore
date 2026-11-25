@@ -1,0 +1,41 @@
+# Virtual Environment & Python Cache
+venv/
+env/
+ENV/
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyd
+
+# Local Database & User State
+grammar_app.db
+*.sqlite3
+*.db
+
+# Hugging Face / Model Checkpoints / Weights (Avoid pushing massive binary model files)
+vocab_model_upgrade/
+vocab_upgrade_model/
+*.pt
+*.bin
+*.safetensors
+*.onnx
+
+# Audio & Temporary Uploads
+temp_voice_*.wav
+temp_voice_*.webm
+temp_voice_*.mp3
+*.wav
+*.webm
+
+# OS & Editor generated files
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Environment variables & secrets
+.env
+.env.local
