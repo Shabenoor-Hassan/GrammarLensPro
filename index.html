@@ -1,0 +1,201 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate" />
+  <meta http-equiv="Pragma" content="no-cache" />
+  <meta http-equiv="Expires" content="0" />
+  <title>GrammarLens Executive | Intelligent Linguistic Mastery</title>
+  <link rel="stylesheet" href="style.css?v=voice_3" />
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+</head>
+<body class="dark-theme">
+
+  <!-- Background Ambience Glows -->
+  <div class="glow-sphere glow-1"></div>
+  <div class="glow-sphere glow-2"></div>
+
+  <!-- Navbar -->
+  <header class="navbar">
+    <div class="brand">
+      <div class="brand-logo">
+        <div class="logo-core"></div>
+      </div>
+      <div class="brand-title">Grammar<span class="gradient-text">Lens</span> <span class="badge-pro">PRO</span></div>
+    </div>
+
+    <!-- Personalization Control Center -->
+    <div class="level-selector-wrapper">
+      <span class="level-label">Target Level:</span>
+      <div class="segmented-control" id="levelSelector">
+        <button class="seg-btn" data-level="beginner">Beginner</button>
+        <button class="seg-btn active" data-level="intermediate">Intermediate</button>
+        <button class="seg-btn" data-level="advanced">Advanced</button>
+      </div>
+    </div>
+
+    <div class="nav-actions">
+      <div id="userProfile" class="user-profile">
+        <div class="avatar" id="userAvatar">U</div>
+        <span id="userNameDisplay" class="username-display">User</span>
+        <button id="logoutBtn" class="btn-ghost">Log Out</button>
+      </div>
+      <button id="openAuthModalBtn" class="btn-glow">Sign In</button>
+    </div>
+  </header>
+
+  <!-- Main App Shell -->
+  <main class="app-container">
+    
+    <!-- Linguistic Score Bar (Permanently hidden on load) -->
+    <section class="metrics-bar" id="metricsBar" style="display: none;">
+      <div class="metric-card">
+        <span class="metric-title">Estimated Proficiency</span>
+        <span class="metric-value gradient-text" id="metricCefr">B2 Intermediate</span>
+      </div>
+      <div class="metric-card">
+        <span class="metric-title">Readability Score</span>
+        <span class="metric-value" id="metricReadability">84.2 <small>/ 100</small></span>
+      </div>
+      <div class="metric-card">
+        <span class="metric-title">Vocabulary Variety</span>
+        <span class="metric-value" id="metricVocab">68%</span>
+      </div>
+      <div class="metric-card">
+        <span class="metric-title">Grammar Health</span>
+        <span class="metric-value" id="metricErrors">0 Issues</span>
+      </div>
+    </section>
+
+    <!-- Interactive Editor Grid -->
+    <div class="workspace-grid">
+      
+      <!-- Input Panel -->
+      <section class="glass-panel editor-panel">
+        <div class="panel-header">
+          <div class="panel-tag">Source Text</div>
+          <div class="header-tools">
+            <button id="speakSourceBtn" class="btn-ghost-sm voice-btn-sm" title="Listen to draft" aria-label="Listen to draft">
+              <span class="voice-icon">🔊</span> Listen
+            </button>
+            <div class="word-counter" id="wordCount">0 words</div>
+          </div>
+        </div>
+        <div class="editor-wrap">
+          <textarea id="inputText" placeholder="Write, paste, or speak your draft here... (e.g., 'He go to school yesterday and buyed a apple.')" spellcheck="false"></textarea>
+        </div>
+        <div class="panel-actions">
+          <button id="checkBtn" class="btn-glow-primary">
+            <span class="btn-icon">✦</span> Analyze & Elevate
+          </button>
+          <button id="voiceBtn" class="btn-ghost btn-voice" title="Click to speak and dictate text">
+            <span class="btn-icon mic-icon">🎤</span> <span id="voiceBtnText">Voice Input</span>
+          </button>
+          <button id="clearBtn" class="btn-ghost">Clear</button>
+          <div id="voiceStatus" class="voice-status-pill hidden">
+            <span class="recording-pulse"></span>
+            <span id="voiceStatusText">Listening...</span>
+            <span id="voiceTimer" class="voice-timer">0:00</span>
+          </div>
+        </div>
+      </section>
+
+      <!-- Inspection & Correction Panel -->
+      <section class="glass-panel inspector-panel">
+        <div class="panel-header">
+          <div class="panel-tabs">
+            <button class="tab-pill active" id="tabCorrections">Corrections (<span id="correctionsBadge">0</span>)</button>
+            <button class="tab-pill" id="tabVocab">Vocabulary Upgrades (<span id="vocabBadge">0</span>)</button>
+          </div>
+          <button id="applyAllBtn" class="btn-accent-sm hidden">Apply All</button>
+        </div>
+
+        <!-- Tab 1: Grammar Correction Cards with Educational Notes -->
+        <div id="correctionsView" class="tab-content active">
+          <div id="suggestionsList" class="cards-stream">
+            <div class="empty-state">
+              <div class="empty-icon">✓</div>
+              <p>Your writing is clean or ready to be analyzed.</p>
+              <small>Click "Analyze & Elevate" to scan grammar and obtain level tips.</small>
+            </div>
+          </div>
+        </div>
+
+        <!-- Tab 2: Vocabulary Upgrades -->
+        <div id="vocabView" class="tab-content hidden">
+          <div id="vocabList" class="cards-stream"></div>
+        </div>
+
+        <!-- Corrected Text Preview Output -->
+        <div class="corrected-footer">
+          <div class="footer-title">
+            <span>Polished Output</span>
+            <div class="footer-actions">
+              <button id="speakOutputBtn" class="btn-ghost-sm voice-btn-sm" title="Listen to polished pronunciation">
+                <span class="voice-icon">🔊</span> Listen
+              </button>
+              <button id="copyBtn" class="btn-ghost-sm">Copy Output</button>
+            </div>
+          </div>
+          <div id="correctedOutput" class="polished-text">Your polished text will appear here.</div>
+        </div>
+      </section>
+    </div>
+
+    <!-- Learning History Drawer -->
+    <section id="historySection" class="history-card glass-panel hidden">
+      <div class="panel-header">
+        <div class="panel-tag">Your Learning Trajectory</div>
+      </div>
+      <div id="historyList" class="history-grid"></div>
+    </section>
+  </main>
+
+   <!-- Modal -->
+  <div id="authModal" class="modal">
+    <div class="modal-card">
+      <button id="closeAuthModal" class="btn-close">&times;</button>
+      
+      <div class="modal-tabs">
+        <button id="tabLogin" class="modal-tab active">Access Account</button>
+        <button id="tabRegister" class="modal-tab">Join GrammarLens</button>
+      </div>
+
+      <!-- Tab 1: Login Form (Visible by default) -->
+      <form id="loginForm" class="auth-form active-form">
+        <div class="input-group">
+          <label>Username</label>
+          <input type="text" id="loginUsername" required placeholder="Enter username" />
+        </div>
+        <div class="input-group">
+          <label>Password</label>
+          <input type="password" id="loginPassword" required placeholder="••••••••" />
+        </div>
+        <button type="submit" class="btn-glow-primary full-width">Sign In</button>
+      </form>
+
+      <!-- Tab 2: Register Form (Hidden until clicked) -->
+      <form id="registerForm" class="auth-form">
+        <div class="input-group">
+          <label>Choose Username</label>
+          <input type="text" id="regUsername" required placeholder="Alex" />
+        </div>
+        <div class="input-group">
+          <label>Email Address</label>
+          <input type="email" id="regEmail" required placeholder="alex@domain.com" />
+        </div>
+        <div class="input-group">
+          <label>Password</label>
+          <input type="password" id="regPassword" required placeholder="••••••••" />
+        </div>
+        <button type="submit" class="btn-glow-primary full-width">Create Account</button>
+      </form>
+    </div>
+  </div>
+
+  <script src="app.js?v=voice_7"></script>
+</body>
+</html>

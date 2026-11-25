@@ -1,0 +1,629 @@
+{"sentence": "I got a notification about the meeting change this morning.", "original": "got", "alternatives": ["acquire"]}
+{"sentence": "She got over her fear of public speaking after joining the club.", "original": "got", "alternatives": ["acquire"]}
+{"sentence": "We got the new gaming console for my brother's birthday.", "original": "got", "alternatives": ["acquire"]}
+{"sentence": "It was a long drive to the cabin in the mountains.", "original": "long", "alternatives": ["hanker", "yearn"]}
+{"sentence": "Students often find long essays challenging to complete.", "original": "long", "alternatives": ["hanker", "yearn"]}
+{"sentence": "I've waited a long time for this concert to come to town.", "original": "long", "alternatives": ["hanker", "yearn"]}
+{"sentence": "He used his smartphone to navigate the city.", "original": "used", "alternatives": ["utilise", "utilize", "apply"]}
+{"sentence": "I used to play the piano when I was a child.", "original": "used", "alternatives": ["utilise", "utilize", "apply"]}
+{"sentence": "The company used a new marketing strategy to reach more customers.", "original": "used", "alternatives": ["utilise", "utilize", "apply"]}
+{"sentence": "Many people dream of being able to live by the ocean.", "original": "live", "alternatives": ["populate", "inhabit", "dwell"]}
+{"sentence": "The band will live stream their performance on social media tonight.", "original": "live", "alternatives": ["populate", "inhabit", "dwell"]}
+{"sentence": "I love to live in a place where I can easily walk to the market.", "original": "live", "alternatives": ["populate", "inhabit", "dwell"]}
+{"sentence": "It was a hard decision to choose between the two job offers.", "original": "hard", "alternatives": ["difficult"]}
+{"sentence": "She studied really hard for her medical school entrance exams.", "original": "hard", "alternatives": ["difficult"]}
+{"sentence": "The concrete was too hard to break with just a hammer.", "original": "hard", "alternatives": ["difficult"]}
+{"sentence": "The new project proposal is based on extensive market research.", "original": "based", "alternatives": ["establish"]}
+{"sentence": "Many popular apps are based on cloud computing technology.", "original": "based", "alternatives": ["establish"]}
+{"sentence": "We stayed at a small hotel based in the historic district.", "original": "based", "alternatives": ["establish"]}
+{"sentence": "I'll finish this report later in the afternoon.", "original": "later", "alternatives": ["ulterior"]}
+{"sentence": "The flight was delayed and departed much later than scheduled.", "original": "later", "alternatives": ["ulterior"]}
+{"sentence": "She felt better later that evening after getting some rest.", "original": "later", "alternatives": ["ulterior"]}
+{"sentence": "The United Nations works to promote international cooperation.", "original": "united", "alternatives": ["unify", "unite"]}
+{"sentence": "Our team felt united in its effort to win the championship.", "original": "united", "alternatives": ["unify", "unite"]}
+{"sentence": "The neighborhood united to clean up the park after the storm.", "original": "united", "alternatives": ["unify", "unite"]}
+{"sentence": "I saw that movie at the cinema about a month ago.", "original": "ago", "alternatives": ["agone"]}
+{"sentence": "The company launched its new product line a few weeks ago.", "original": "ago", "alternatives": ["agone"]}
+{"sentence": "My grandparents moved to this city many years ago.", "original": "ago", "alternatives": ["agone"]}
+{"sentence": "He started a new position as a software engineer last week.", "original": "started", "alternatives": ["commence"]}
+{"sentence": "The lecture started precisely at nine o'clock this morning.", "original": "started", "alternatives": ["commence"]}
+{"sentence": "I started feeling a bit unwell after eating that seafood.", "original": "started", "alternatives": ["commence"]}
+{"sentence": "Please remember to bring your lunch tomorrow.", "original": "remember", "alternatives": ["recollect", "retrieve"]}
+{"sentence": "Do you remember the password for this website?", "original": "remember", "alternatives": ["recollect", "retrieve"]}
+{"sentence": "I always remember my grandmother's wise advice.", "original": "remember", "alternatives": ["recollect", "retrieve"]}
+{"sentence": "You can ask me any questions about the project.", "original": "ask", "alternatives": ["enquire", "inquire"]}
+{"sentence": "Don't hesitate to ask for help if you're stuck on the homework.", "original": "ask", "alternatives": ["enquire", "inquire"]}
+{"sentence": "I need to ask the travel agent about flight availability.", "original": "ask", "alternatives": ["enquire", "inquire"]}
+{"sentence": "She asked for directions to the nearest library.", "original": "asked", "alternatives": ["enquire", "inquire"]}
+{"sentence": "The doctor asked about my family's medical history.", "original": "asked", "alternatives": ["enquire", "inquire"]}
+{"sentence": "My boss asked me to prepare a report by Friday.", "original": "asked", "alternatives": ["enquire", "inquire"]}
+{"sentence": "According to the forecast, it will be sunny all week.", "original": "according", "alternatives": ["harmonise", "harmonize"]}
+{"sentence": "Please follow the instructions according to the manual.", "original": "according", "alternatives": ["harmonise", "harmonize"]}
+{"sentence": "The budget was allocated according to departmental needs.", "original": "according", "alternatives": ["harmonise", "harmonize"]}
+{"sentence": "Could you bring some water bottles for the hike?", "original": "bring", "alternatives": ["convey"]}
+{"sentence": "Please remember to bring your laptop to the meeting.", "original": "bring", "alternatives": ["convey"]}
+{"sentence": "Regular exercise can bring great benefits to your health.", "original": "bring", "alternatives": ["convey"]}
+{"sentence": "The annual conference was held in New York this year.", "original": "held", "alternatives": ["maintain"]}
+{"sentence": "She held the baby's hand gently as they walked.", "original": "held", "alternatives": ["maintain"]}
+{"sentence": "The company held a brainstorming session yesterday.", "original": "held", "alternatives": ["maintain"]}
+{"sentence": "His old car finally died on the highway last week.", "original": "died", "alternatives": ["perish", "expire"]}
+{"sentence": "My beloved pet dog died peacefully in his sleep.", "original": "died", "alternatives": ["perish", "expire"]}
+{"sentence": "Many flowers died during the unexpected cold snap.", "original": "died", "alternatives": ["perish", "expire"]}
+{"sentence": "I wonder what happened to your car last night.", "original": "happened", "alternatives": ["occur"]}
+{"sentence": "A strange incident happened during our flight delay.", "original": "happened", "alternatives": ["occur"]}
+{"sentence": "The nurse explained what happened during the procedure.", "original": "happened", "alternatives": ["occur"]}
+{"sentence": "What time is the ceremony supposed to happen?", "original": "happen", "alternatives": ["occur"]}
+{"sentence": "Unexpected things can happen when you travel to new places.", "original": "happen", "alternatives": ["occur"]}
+{"sentence": "We need to understand why these errors often happen.", "original": "happen", "alternatives": ["occur"]}
+{"sentence": "I needed a new pair of shoes for the trip.", "original": "needed", "alternatives": ["necessitate", "involve"]}
+{"sentence": "The students needed extra guidance on the complex assignment.", "original": "needed", "alternatives": ["necessitate", "involve"]}
+{"sentence": "The patient truly needed a good night's rest to recover.", "original": "needed", "alternatives": ["necessitate", "involve"]}
+{"sentence": "I'm so sorry I'm late; the traffic was terrible.", "original": "sorry", "alternatives": ["regretful"]}
+{"sentence": "I'm sorry, but I won't be able to attend the meeting tomorrow.", "original": "sorry", "alternatives": ["regretful"]}
+{"sentence": "He felt genuinely sorry when he heard about her sudden illness.", "original": "sorry", "alternatives": ["regretful"]}
+{"sentence": "Students learn new concepts every day in their classes.", "original": "learn", "alternatives": ["larn", "acquire"]}
+{"sentence": "It's important to learn how to use new software efficiently.", "original": "learn", "alternatives": ["larn", "acquire"]}
+{"sentence": "I want to learn to speak Italian before my trip to Rome.", "original": "learn", "alternatives": ["larn", "acquire"]}
+{"sentence": "She brought a delicious cake to the potluck dinner.", "original": "brought", "alternatives": ["convey"]}
+{"sentence": "The new policy brought about significant changes to our workflow.", "original": "brought", "alternatives": ["convey"]}
+{"sentence": "Our flight delay brought unexpected stress to the beginning of our vacation.", "original": "brought", "alternatives": ["convey"]}
+{"sentence": "The company aims to provide excellent customer service.", "original": "provide", "alternatives": ["furnish"]}
+{"sentence": "Doctors provide care and advice to their patients.", "original": "provide", "alternatives": ["furnish"]}
+{"sentence": "This app can provide real-time updates on public transport.", "original": "provide", "alternatives": ["furnish"]}
+{"sentence": "You can choose whatever toppings you like for your pizza.", "original": "whatever", "alternatives": ["whatsoever"]}
+{"sentence": "We'll adapt to whatever challenges the new project brings.", "original": "whatever", "alternatives": ["whatsoever"]}
+{"sentence": "She decided to study whatever topic interested her most for the research paper.", "original": "whatever", "alternatives": ["whatsoever"]}
+{"sentence": "The views from the top of the mountain were absolutely amazing.", "original": "amazing", "alternatives": ["astound", "astonish", "amaze"]}
+{"sentence": "Modern virtual reality experiences can be truly amazing.", "original": "amazing", "alternatives": ["astound", "astonish", "amaze"]}
+{"sentence": "This new recipe for chocolate chip cookies is amazing!", "original": "amazing", "alternatives": ["astound", "astonish", "amaze"]}
+{"sentence": "She became deeply involved in the community outreach program.", "original": "involved", "alternatives": ["involve"]}
+{"sentence": "Getting involved in extracurricular activities enriches the student experience.", "original": "involved", "alternatives": ["involve"]}
+{"sentence": "The doctor explained what was involved in the recovery process.", "original": "involved", "alternatives": ["involve"]}
+{"sentence": "The issue we're facing today is closely related to last week's system update.", "original": "related", "alternatives": ["relate", "connect"]}
+{"sentence": "His research paper explored several topics related to environmental science.", "original": "related", "alternatives": ["relate", "connect"]}
+{"sentence": "Are you two related, or is it just a coincidence you have the same last name?", "original": "related", "alternatives": ["relate", "connect"]}
+{"sentence": "We decided to go for a walk despite the chilly weather.", "original": "decided", "alternatives": ["determine"]}
+{"sentence": "The team finally decided on a new strategy for the marketing campaign.", "original": "decided", "alternatives": ["determine"]}
+{"sentence": "After much thought, they decided to book flights for their summer vacation.", "original": "decided", "alternatives": ["determine"]}
+{"sentence": "I hope you enjoy your weekend plans!", "original": "enjoy", "alternatives": ["bask"]}
+{"sentence": "Many students enjoy learning about history through interactive exhibits.", "original": "enjoy", "alternatives": ["bask"]}
+{"sentence": "We always enjoy trying local cuisine when we visit new countries.", "original": "enjoy", "alternatives": ["bask"]}
+{"sentence": "The report was finally written after weeks of research.", "original": "written", "alternatives": ["compose"]}
+{"sentence": "She had written a beautiful poem for her English class.", "original": "written", "alternatives": ["compose"]}
+{"sentence": "Have you written your thank-you notes yet?", "original": "written", "alternatives": ["compose"]}
+{"sentence": "We considered booking a flight, but decided to drive instead.", "original": "considered", "alternatives": ["reckon"]}
+{"sentence": "The new software is considered a major advancement in AI.", "original": "considered", "alternatives": ["reckon"]}
+{"sentence": "Eating a balanced diet is considered vital for good health.", "original": "considered", "alternatives": ["reckon"]}
+{"sentence": "We will continue this discussion in our next meeting.", "original": "continue", "alternatives": ["proceed"]}
+{"sentence": "Please continue with your story, I'm interested.", "original": "continue", "alternatives": ["proceed"]}
+{"sentence": "Students must continue to practice their math skills daily.", "original": "continue", "alternatives": ["proceed"]}
+{"sentence": "The company's financial results were better than expected.", "original": "financial", "alternatives": ["fiscal"]}
+{"sentence": "We need to make a careful financial plan for our future.", "original": "financial", "alternatives": ["fiscal"]}
+{"sentence": "Many startups seek financial backing from investors.", "original": "financial", "alternatives": ["fiscal"]}
+{"sentence": "The lecture began promptly at nine o'clock.", "original": "began", "alternatives": ["commence"]}
+{"sentence": "Our road trip truly began once we left the city limits.", "original": "began", "alternatives": ["commence"]}
+{"sentence": "He began to feel tired after a long day of work.", "original": "began", "alternatives": ["commence"]}
+{"sentence": "The weather has really changed since this morning.", "original": "changed", "alternatives": ["modify", "alter"]}
+{"sentence": "Our project scope changed after the client meeting.", "original": "changed", "alternatives": ["modify", "alter"]}
+{"sentence": "New updates often mean the user interface has changed.", "original": "changed", "alternatives": ["modify", "alter"]}
+{"sentence": "Her research paper was recently published in a prestigious journal.", "original": "published", "alternatives": ["publish"]}
+{"sentence": "The school newspaper published an article about the upcoming play.", "original": "published", "alternatives": ["publish"]}
+{"sentence": "The new app was officially published on both app stores today.", "original": "published", "alternatives": ["publish"]}
+{"sentence": "Don't forget to pick up milk on your way home.", "original": "forget", "alternatives": ["bury"]}
+{"sentence": "It's easy to forget important dates without a planner.", "original": "forget", "alternatives": ["bury"]}
+{"sentence": "I hope I don't forget my passport for the trip.", "original": "forget", "alternatives": ["bury"]}
+{"sentence": "The company landed a huge new contract this quarter.", "original": "huge", "alternatives": ["immense", "vast"]}
+{"sentence": "They built a huge sandcastle on the beach.", "original": "huge", "alternatives": ["immense", "vast"]}
+{"sentence": "The new server has a huge amount of storage capacity.", "original": "huge", "alternatives": ["immense", "vast"]}
+{"sentence": "The company released a new phone model last week.", "original": "released", "alternatives": ["relinquish"]}
+{"sentence": "The press release was officially released at noon.", "original": "released", "alternatives": ["relinquish"]}
+{"sentence": "The doctor released the patient from the hospital today.", "original": "released", "alternatives": ["relinquish"]}
+{"sentence": "She wrote a beautiful poem for the competition.", "original": "wrote", "alternatives": ["compose"]}
+{"sentence": "I wrote an email to my manager about the project status.", "original": "wrote", "alternatives": ["compose"]}
+{"sentence": "He wrote down the recipe steps carefully.", "original": "wrote", "alternatives": ["compose"]}
+{"sentence": "Could you speak a little louder, please?", "original": "speak", "alternatives": ["verbalize", "utter"]}
+{"sentence": "Our guest lecturer will speak about AI ethics next week.", "original": "speak", "alternatives": ["verbalize", "utter"]}
+{"sentence": "I need to speak with customer service about my internet bill.", "original": "speak", "alternatives": ["verbalize", "utter"]}
+{"sentence": "Please write your name and address on the form.", "original": "write", "alternatives": ["compose"]}
+{"sentence": "Students must write a research paper by the end of the semester.", "original": "write", "alternatives": ["compose"]}
+{"sentence": "I often write in my journal to clear my thoughts.", "original": "write", "alternatives": ["compose"]}
+{"sentence": "The hotel provided excellent service during our stay.", "original": "provided", "alternatives": ["furnish"]}
+{"sentence": "The company provided all employees with new health benefits.", "original": "provided", "alternatives": ["furnish"]}
+{"sentence": "The website provided clear instructions for assembling the furniture.", "original": "provided", "alternatives": ["furnish"]}
+{"sentence": "A valid passport is required for international travel.", "original": "required", "alternatives": ["necessitate", "involve"]}
+{"sentence": "All new employees are required to complete this training module.", "original": "required", "alternatives": ["necessitate", "involve"]}
+{"sentence": "The recipe required two cups of flour, so I went to the store.", "original": "required", "alternatives": ["necessitate", "involve"]}
+{"sentence": "I expect the train to arrive in about ten minutes.", "original": "expect", "alternatives": ["anticipate"]}
+{"sentence": "We expect a high level of performance from our team.", "original": "expect", "alternatives": ["anticipate"]}
+{"sentence": "Don't expect too much from the first draft of your essay.", "original": "expect", "alternatives": ["anticipate"]}
+{"sentence": "She described her dream vacation in vivid detail.", "original": "described", "alternatives": ["depict", "describe"]}
+{"sentence": "The scientist described the new discovery in the journal.", "original": "described", "alternatives": ["depict", "describe"]}
+{"sentence": "The article described the city as a vibrant cultural hub.", "original": "described", "alternatives": ["depict", "describe"]}
+{"sentence": "The local news reported a traffic accident on the highway.", "original": "reported", "alternatives": ["describe"]}
+{"sentence": "He reported his lost wallet to the police immediately.", "original": "reported", "alternatives": ["describe"]}
+{"sentence": "Many users reported an improvement after the software update.", "original": "reported", "alternatives": ["describe"]}
+{"sentence": "Please consider all your options before making a decision.", "original": "consider", "alternatives": ["reckon"]}
+{"sentence": "We should consider the environmental impact of this project.", "original": "consider", "alternatives": ["reckon"]}
+{"sentence": "You might want to consider a different approach to solving the problem.", "original": "consider", "alternatives": ["reckon"]}
+{"sentence": "I woke up much earlier than usual today.", "original": "earlier", "alternatives": ["earliest"]}
+{"sentence": "Let's finish this report earlier than the deadline.", "original": "earlier", "alternatives": ["earliest"]}
+{"sentence": "The earlier versions of the software were less user-friendly.", "original": "earlier", "alternatives": ["earliest"]}
+{"sentence": "I agree with your assessment of the market trends.", "original": "agree", "alternatives": ["concur"]}
+{"sentence": "My brother and I rarely agree on what to have for dinner.", "original": "agree", "alternatives": ["concur"]}
+{"sentence": "Do you agree that a good work-life balance is crucial?", "original": "agree", "alternatives": ["concur"]}
+{"sentence": "The principal announced the school play's opening night.", "original": "announced", "alternatives": ["denote", "announce"]}
+{"sentence": "The company announced a new partnership with a major tech firm.", "original": "announced", "alternatives": ["denote", "announce"]}
+{"sentence": "She happily announced her travel plans for the summer.", "original": "announced", "alternatives": ["denote", "announce"]}
+{"sentence": "He continued his research despite facing many challenges.", "original": "continued", "alternatives": ["proceed"]}
+{"sentence": "The bus continued its journey even though it was raining.", "original": "continued", "alternatives": ["proceed"]}
+{"sentence": "The architect designed a beautiful, energy-efficient house.", "original": "designed", "alternatives": ["contrive"]}
+{"sentence": "This software was specifically designed for graphic artists.", "original": "designed", "alternatives": ["contrive"]}
+{"sentence": "She designed her own curriculum for homeschooling her children.", "original": "designed", "alternatives": ["contrive"]}
+{"sentence": "We expected a large crowd at the concert, but it was even bigger.", "original": "expected", "alternatives": ["anticipate"]}
+{"sentence": "The team expected to launch the new feature by next week.", "original": "expected", "alternatives": ["anticipate"]}
+{"sentence": "Her exam results were better than anyone expected.", "original": "expected", "alternatives": ["anticipate"]}
+{"sentence": "It often happens that good ideas come from unexpected places.", "original": "happens", "alternatives": ["occur"]}
+{"sentence": "What happens if you forget to save your work before closing the file?", "original": "happens", "alternatives": ["occur"]}
+{"sentence": "Sometimes life just happens, and you have to adjust your plans.", "original": "happens", "alternatives": ["occur"]}
+{"sentence": "Climate change is a critical global issue that affects everyone.", "original": "global", "alternatives": ["worldwide"]}
+{"sentence": "Many businesses now operate on a global scale.", "original": "global", "alternatives": ["worldwide"]}
+{"sentence": "The internet has created a truly global communication network.", "original": "global", "alternatives": ["worldwide"]}
+{"sentence": "I meant to call you earlier, but I got tied up at work.", "original": "meant", "alternatives": ["intend"]}
+{"sentence": "The red light clearly meant we had to stop the car.", "original": "meant", "alternatives": ["intend"]}
+{"sentence": "He meant well, even if his advice wasn't perfectly clear.", "original": "meant", "alternatives": ["intend"]}
+{"sentence": "Our hiking trip to the mountains was absolutely awesome.", "original": "awesome", "alternatives": ["awe-inspiring", "awful"]}
+{"sentence": "The new video game has some awesome graphics and gameplay.", "original": "awesome", "alternatives": ["awe-inspiring", "awful"]}
+{"sentence": "She gave an awesome presentation on sustainable agriculture.", "original": "awesome", "alternatives": ["awe-inspiring", "awful"]}
+{"sentence": "The movie ended with an unexpected plot twist.", "original": "ended", "alternatives": ["terminate"]}
+{"sentence": "After a long discussion, the board meeting finally ended.", "original": "ended", "alternatives": ["terminate"]}
+{"sentence": "Our vacation to Italy ended too quickly, as always.", "original": "ended", "alternatives": ["terminate"]}
+{"sentence": "I often imagine what college life will be like.", "original": "imagine", "alternatives": ["envisage"]}
+{"sentence": "Can you imagine visiting a country where you don't speak the language?", "original": "imagine", "alternatives": ["envisage"]}
+{"sentence": "It's hard to imagine a world without the internet now.", "original": "imagine", "alternatives": ["envisage"]}
+{"sentence": "You can choose any flavor of ice cream you like.", "original": "choose", "alternatives": ["select"]}
+{"sentence": "The team needs to choose a leader for this project.", "original": "choose", "alternatives": ["select"]}
+{"sentence": "I always choose healthy snacks over processed ones.", "original": "choose", "alternatives": ["select"]}
+{"sentence": "That ancient civilization established a complex legal system.", "original": "established", "alternatives": ["establish"]}
+{"sentence": "The company was established in 1995 and has grown steadily.", "original": "established", "alternatives": ["establish"]}
+{"sentence": "Research has established a strong link between diet and heart health.", "original": "established", "alternatives": ["establish"]}
+{"sentence": "The new software update has shown significant improvements.", "original": "shown", "alternatives": ["demonstrate"]}
+{"sentence": "My test results have shown that I need to study more history.", "original": "shown", "alternatives": ["demonstrate"]}
+{"sentence": "The latest report has shown a decline in unemployment rates.", "original": "shown", "alternatives": ["demonstrate"]}
+{"sentence": "Certain symptoms are often associated with this illness.", "original": "associated", "alternatives": ["relate", "connect"]}
+{"sentence": "He is often associated with the success of the startup.", "original": "associated", "alternatives": ["relate", "connect"]}
+{"sentence": "Many privacy concerns are associated with social media use.", "original": "associated", "alternatives": ["relate", "connect"]}
+{"sentence": "This new medicine is very effective against the common cold.", "original": "effective", "alternatives": ["effectual", "efficacious"]}
+{"sentence": "We need to find a more effective way to market our product.", "original": "effective", "alternatives": ["effectual", "efficacious"]}
+{"sentence": "Using a timer can be an effective strategy for time management.", "original": "effective", "alternatives": ["effectual", "efficacious"]}
+{"sentence": "Can you explain this difficult math problem to me?", "original": "explain", "alternatives": ["explicate"]}
+{"sentence": "The manager will explain the new policy at the meeting.", "original": "explain", "alternatives": ["explicate"]}
+{"sentence": "I had to explain why I was late for dinner.", "original": "explain", "alternatives": ["explicate"]}
+{"sentence": "My grandparents lived in that small village their entire lives.", "original": "lived", "alternatives": ["populate", "inhabit", "dwell"]}
+{"sentence": "She lived a very full and interesting life.", "original": "lived", "alternatives": ["populate", "inhabit", "dwell"]}
+{"sentence": "Many unique creatures lived in the prehistoric oceans.", "original": "lived", "alternatives": ["populate", "inhabit", "dwell"]}
+{"sentence": "The hotel is conveniently located near the train station.", "original": "located", "alternatives": ["locate"]}
+{"sentence": "Our new office will be located downtown next year.", "original": "located", "alternatives": ["locate"]}
+{"sentence": "The small village is remotely located in the mountains.", "original": "located", "alternatives": ["locate"]}
+{"sentence": "The student showed a great understanding of the subject.", "original": "showed", "alternatives": ["demonstrate"]}
+{"sentence": "He showed me a picture of his new puppy.", "original": "showed", "alternatives": ["demonstrate"]}
+{"sentence": "The presentation showed the latest advancements in AI.", "original": "showed", "alternatives": ["demonstrate"]}
+{"sentence": "The actual cost was much lower than the estimate.", "original": "actual", "alternatives": ["existent"]}
+{"sentence": "We need to verify the actual numbers for the report.", "original": "actual", "alternatives": ["existent"]}
+{"sentence": "Is this the actual photo, or was it edited?", "original": "actual", "alternatives": ["existent"]}
+{"sentence": "She learned a new programming language for her job.", "original": "learned", "alternatives": ["larn", "acquire"]}
+{"sentence": "I learned a lot about ancient history in school.", "original": "learned", "alternatives": ["larn", "acquire"]}
+{"sentence": "He quickly learned to play the guitar.", "original": "learned", "alternatives": ["larn", "acquire"]}
+{"sentence": "We finally reached our vacation destination after a long flight.", "original": "reached", "alternatives": ["attain"]}
+{"sentence": "The company reached its sales target for the quarter.", "original": "reached", "alternatives": ["attain"]}
+{"sentence": "The agreement was reached after long negotiations.", "original": "reached", "alternatives": ["attain"]}
+{"sentence": "I signed the contract for the new apartment yesterday.", "original": "signed", "alternatives": ["subscribe"]}
+{"sentence": "All students must have their permission slips signed.", "original": "signed", "alternatives": ["subscribe"]}
+{"sentence": "The package needed to be signed for upon delivery.", "original": "signed", "alternatives": ["subscribe"]}
+{"sentence": "The internet connection is incredibly slow today.", "original": "slow", "alternatives": ["decelerate"]}
+{"sentence": "Recovery from the injury was a slow process.", "original": "slow", "alternatives": ["decelerate"]}
+{"sentence": "Traffic was very slow during rush hour.", "original": "slow", "alternatives": ["decelerate"]}
+{"sentence": "We had a wonderful time at the party last night.", "original": "wonderful", "alternatives": ["wondrous", "marvellous", "marvelous"]}
+{"sentence": "The view from the mountaintop was absolutely wonderful.", "original": "wonderful", "alternatives": ["wondrous", "marvellous", "marvelous"]}
+{"sentence": "It's wonderful to see you feeling better.", "original": "wonderful", "alternatives": ["wondrous", "marvellous", "marvelous"]}
+{"sentence": "The team agreed on the new project timeline.", "original": "agreed", "alternatives": ["concur"]}
+{"sentence": "We all agreed to meet for dinner on Saturday.", "original": "agreed", "alternatives": ["concur"]}
+{"sentence": "My friends and I agreed to study together for the exam.", "original": "agreed", "alternatives": ["concur"]}
+{"sentence": "They visited a famous landmark during their trip to Rome.", "original": "famous", "alternatives": ["illustrious", "far-famed", "famed"]}
+{"sentence": "The artist became famous for her abstract paintings.", "original": "famous", "alternatives": ["illustrious", "far-famed", "famed"]}
+{"sentence": "This restaurant is famous for its delicious seafood.", "original": "famous", "alternatives": ["illustrious", "far-famed", "famed"]}
+{"sentence": "The bad weather forced us to stay inside all day.", "original": "forced", "alternatives": ["coerce"]}
+{"sentence": "He was forced to learn new skills to adapt to the job market.", "original": "forced", "alternatives": ["coerce"]}
+{"sentence": "Lack of sleep eventually forced her to take a break.", "original": "forced", "alternatives": ["coerce"]}
+{"sentence": "I didn't realize how much work this project would be.", "original": "realize", "alternatives": ["recognise", "realise"]}
+{"sentence": "Students will soon realize the importance of time management.", "original": "realize", "alternatives": ["recognise", "realise"]}
+{"sentence": "We hope to realize our goal of expanding the business.", "original": "realize", "alternatives": ["recognise", "realise"]}
+{"sentence": "You need to apply for the scholarship by next Friday.", "original": "apply", "alternatives": ["utilise", "utilize"]}
+{"sentence": "Remember to apply sunscreen generously before going outside.", "original": "apply", "alternatives": ["utilise", "utilize"]}
+{"sentence": "The instructions explain how to apply the paint evenly.", "original": "apply", "alternatives": ["utilise", "utilize"]}
+{"sentence": "This new app provides users with real-time traffic updates.", "original": "provides", "alternatives": ["furnish"]}
+{"sentence": "Eating a balanced diet provides the body with essential nutrients.", "original": "provides", "alternatives": ["furnish"]}
+{"sentence": "The hotel provides excellent service and comfortable rooms.", "original": "provides", "alternatives": ["furnish"]}
+{"sentence": "I need a smaller size of this shirt, please.", "original": "smaller", "alternatives": ["littler"]}
+{"sentence": "The new phone is much smaller than its predecessor.", "original": "smaller", "alternatives": ["littler"]}
+{"sentence": "He likes to work in a smaller team for better collaboration.", "original": "smaller", "alternatives": ["littler"]}
+{"sentence": "Our train finally arrived an hour late due to a signal issue.", "original": "arrived", "alternatives": ["arrive"]}
+{"sentence": "The package I ordered online arrived this morning.", "original": "arrived", "alternatives": ["arrive"]}
+{"sentence": "She arrived at the party just as the music started.", "original": "arrived", "alternatives": ["arrive"]}
+{"sentence": "The rain continues to fall, making it a gloomy day.", "original": "continues", "alternatives": ["proceed"]}
+{"sentence": "His recovery continues to progress well after the surgery.", "original": "continues", "alternatives": ["proceed"]}
+{"sentence": "The company continues to expand its market share globally.", "original": "continues", "alternatives": ["proceed"]}
+{"sentence": "Please check your answers to make sure they are correct.", "original": "correct", "alternatives": ["rectify"]}
+{"sentence": "I had to correct a few errors in the report before submission.", "original": "correct", "alternatives": ["rectify"]}
+{"sentence": "It's important to use the correct terminology in scientific papers.", "original": "correct", "alternatives": ["rectify"]}
+{"sentence": "Driving too fast on icy roads can be very dangerous.", "original": "dangerous", "alternatives": ["unsafe"]}
+{"sentence": "Some types of mushrooms are beautiful but extremely dangerous to eat.", "original": "dangerous", "alternatives": ["unsafe"]}
+{"sentence": "Ignoring a persistent cough could be dangerous for your health.", "original": "dangerous", "alternatives": ["unsafe"]}
+{"sentence": "I want to improve my English speaking skills this year.", "original": "improve", "alternatives": ["ameliorate", "amend"]}
+{"sentence": "Regular exercise can significantly improve your mood and energy.", "original": "improve", "alternatives": ["ameliorate", "amend"]}
+{"sentence": "The company plans to improve its customer service response times.", "original": "improve", "alternatives": ["ameliorate", "amend"]}
+{"sentence": "Washing your hands frequently helps prevent the spread of germs.", "original": "prevent", "alternatives": ["foreclose", "forestall", "preclude"]}
+{"sentence": "Seatbelts are designed to prevent serious injury in a car accident.", "original": "prevent", "alternatives": ["foreclose", "forestall", "preclude"]}
+{"sentence": "We need to take steps now to prevent future system failures.", "original": "prevent", "alternatives": ["foreclose", "forestall", "preclude"]}
+{"sentence": "She carefully removed the splinter from her finger.", "original": "removed", "alternatives": ["withdraw"]}
+{"sentence": "The IT department removed several outdated programs from the computers.", "original": "removed", "alternatives": ["withdraw"]}
+{"sentence": "He removed his hat as he entered the sacred building.", "original": "removed", "alternatives": ["withdraw"]}
+{"sentence": "Are you aware of the new policy changes?", "original": "aware", "alternatives": ["cognisant", "cognizant"]}
+{"sentence": "She became more aware of her surroundings after the incident.", "original": "aware", "alternatives": ["cognisant", "cognizant"]}
+{"sentence": "The team is aware of the technical issue and is working on a solution.", "original": "aware", "alternatives": ["cognisant", "cognizant"]}
+{"sentence": "This new software will require some training for all employees.", "original": "require", "alternatives": ["necessitate", "involve"]}
+{"sentence": "Students are required to complete an internship.", "original": "require", "alternatives": ["necessitate", "involve"]}
+{"sentence": "Does this recipe require fresh herbs or dried ones?", "original": "require", "alternatives": ["necessitate", "involve"]}
+{"sentence": "The weather is constantly changing here, so bring layers.", "original": "changing", "alternatives": ["modify", "alter"]}
+{"sentence": "We are changing our internet provider next month.", "original": "changing", "alternatives": ["modify", "alter"]}
+{"sentence": "His perspective on the issue is slowly changing.", "original": "changing", "alternatives": ["modify", "alter"]}
+{"sentence": "My grandfather owned a small farm in the countryside.", "original": "owned", "alternatives": ["possess"]}
+{"sentence": "The company is owned by a large investment group.", "original": "owned", "alternatives": ["possess"]}
+{"sentence": "She wished she owned a faster computer.", "original": "owned", "alternatives": ["possess"]}
+{"sentence": "I'm too busy with work right now to take on new projects.", "original": "busy", "alternatives": ["occupy"]}
+{"sentence": "The market was very busy on Saturday morning.", "original": "busy", "alternatives": ["occupy"]}
+{"sentence": "My phone line was busy for almost an hour.", "original": "busy", "alternatives": ["occupy"]}
+{"sentence": "I'm concerned about the rising cost of living.", "original": "concerned", "alternatives": ["pertain", "relate"]}
+{"sentence": "The doctor was concerned about the patient's test results.", "original": "concerned", "alternatives": ["pertain", "relate"]}
+{"sentence": "Many parents are concerned about screen time for children.", "original": "concerned", "alternatives": ["pertain", "relate"]}
+{"sentence": "She presented her research findings at the conference.", "original": "presented", "alternatives": ["demonstrate"]}
+{"sentence": "The award was presented to the winning team.", "original": "presented", "alternatives": ["demonstrate"]}
+{"sentence": "The new website design presented a fresh look.", "original": "presented", "alternatives": ["demonstrate"]}
+{"sentence": "I suggest we try the new restaurant downtown tonight.", "original": "suggest", "alternatives": ["propose", "advise"]}
+{"sentence": "Can I suggest a different approach for this task?", "original": "suggest", "alternatives": ["propose", "advise"]}
+{"sentence": "His behavior might suggest he's feeling unwell.", "original": "suggest", "alternatives": ["propose", "advise"]}
+{"sentence": "Each snowflake has a unique crystal structure.", "original": "unique", "alternatives": ["unequaled", "unequalled", "unparalleled"]}
+{"sentence": "The artist developed a truly unique style.", "original": "unique", "alternatives": ["unequaled", "unequalled", "unparalleled"]}
+{"sentence": "This job offers a unique opportunity for growth.", "original": "unique", "alternatives": ["unequaled", "unequalled", "unparalleled"]}
+{"sentence": "They discovered an ancient artifact during the excavation.", "original": "discovered", "alternatives": ["detect", "observe"]}
+{"sentence": "Scientists recently discovered a new species of deep-sea fish.", "original": "discovered", "alternatives": ["detect", "observe"]}
+{"sentence": "She discovered a passion for painting in her retirement.", "original": "discovered", "alternatives": ["detect", "observe"]}
+{"sentence": "I was so excited to finally book my trip to Japan.", "original": "excited", "alternatives": ["excite"]}
+{"sentence": "The kids were excited for the field trip to the science museum.", "original": "excited", "alternatives": ["excite"]}
+{"sentence": "She felt very excited about starting her new hobby next week.", "original": "excited", "alternatives": ["excite"]}
+{"sentence": "He got really mad when someone cut him off in traffic.", "original": "mad", "alternatives": ["huffy"]}
+{"sentence": "My boss was mad that the project wasn't finished on time.", "original": "mad", "alternatives": ["huffy"]}
+{"sentence": "After a week of rain, I thought I would go mad stuck inside.", "original": "mad", "alternatives": ["huffy"]}
+{"sentence": "We ordered pizza for dinner last night.", "original": "ordered", "alternatives": ["enjoin"]}
+{"sentence": "The general ordered his troops to advance immediately.", "original": "ordered", "alternatives": ["enjoin"]}
+{"sentence": "The school ordered new laptops for the computer lab.", "original": "ordered", "alternatives": ["enjoin"]}
+{"sentence": "Your report on renewable energy was truly excellent.", "original": "excellent", "alternatives": ["fantabulous", "splendid"]}
+{"sentence": "The restaurant served an excellent meal with fresh ingredients.", "original": "excellent", "alternatives": ["fantabulous", "splendid"]}
+{"sentence": "Her presentation to the client was excellent and well-received.", "original": "excellent", "alternatives": ["fantabulous", "splendid"]}
+{"sentence": "To be honest, I didn't enjoy the movie very much.", "original": "honest", "alternatives": ["honorable"]}
+{"sentence": "An honest mistake was made with the invoice, but it's corrected now.", "original": "honest", "alternatives": ["honorable"]}
+{"sentence": "It's important to have honest conversations about your feelings.", "original": "honest", "alternatives": ["honorable"]}
+{"sentence": "The company issued a press release about the new product launch.", "original": "issued", "alternatives": ["publish"]}
+{"sentence": "My passport was issued last month and arrived quickly.", "original": "issued", "alternatives": ["publish"]}
+{"sentence": "A new software update was issued to fix several bugs.", "original": "issued", "alternatives": ["publish"]}
+{"sentence": "The country is developing its nuclear energy program.", "original": "nuclear", "alternatives": ["atomic"]}
+{"sentence": "International agreements aim to prevent nuclear proliferation.", "original": "nuclear", "alternatives": ["atomic"]}
+{"sentence": "Scientists study the potential for nuclear fusion as a clean energy source.", "original": "nuclear", "alternatives": ["atomic"]}
+{"sentence": "Harry helped me move all the boxes into the new apartment.", "original": "harry", "alternatives": ["molest", "beset", "harass"]}
+{"sentence": "Harry got an A on his difficult history exam.", "original": "harry", "alternatives": ["molest", "beset", "harass"]}
+{"sentence": "Harry is leading the new marketing campaign for the company.", "original": "harry", "alternatives": ["molest", "beset", "harass"]}
+{"sentence": "I introduced my new colleague to the rest of the team.", "original": "introduced", "alternatives": ["acquaint"]}
+{"sentence": "The professor introduced the complex topic with a simple analogy.", "original": "introduced", "alternatives": ["acquaint"]}
+{"sentence": "The company introduced an innovative new smartphone model.", "original": "introduced", "alternatives": ["acquaint"]}
+{"sentence": "A massive oak tree stood in the middle of the park.", "original": "massive", "alternatives": ["monolithic"]}
+{"sentence": "They undertook a massive construction project downtown.", "original": "massive", "alternatives": ["monolithic"]}
+{"sentence": "Storing such massive amounts of data requires advanced servers.", "original": "massive", "alternatives": ["monolithic"]}
+{"sentence": "The organization is providing free workshops to help job seekers improve their skills.", "original": "providing", "alternatives": ["furnish"]}
+{"sentence": "A balanced diet is essential for providing your body with the necessary energy.", "original": "providing", "alternatives": ["furnish"]}
+{"sentence": "Modern smart homes are providing unprecedented levels of convenience and security.", "original": "providing", "alternatives": ["furnish"]}
+{"sentence": "Knowing a second language can be incredibly useful when traveling abroad.", "original": "useful", "alternatives": ["utile"]}
+{"sentence": "This new software update includes several useful features for remote collaboration.", "original": "useful", "alternatives": ["utile"]}
+{"sentence": "Always keep a first-aid kit at home; it's a very useful item to have for emergencies.", "original": "useful", "alternatives": ["utile"]}
+{"sentence": "We found a surprisingly cheap flight to Barcelona for our summer vacation.", "original": "cheap", "alternatives": ["inexpensive"]}
+{"sentence": "While the camera was cheap, its picture quality turned out to be quite good.", "original": "cheap", "alternatives": ["inexpensive"]}
+{"sentence": "Eating at home is generally much cheaper than dining out every night.", "original": "cheap", "alternatives": ["inexpensive"]}
+{"sentence": "The team did a fantastic job on the presentation, receiving high praise from the client.", "original": "fantastic", "alternatives": ["fantastical"]}
+{"sentence": "We had a fantastic time exploring the ancient ruins during our trip.", "original": "fantastic", "alternatives": ["fantastical"]}
+{"sentence": "My new smart speaker has some fantastic voice recognition capabilities.", "original": "fantastic", "alternatives": ["fantastical"]}
+{"sentence": "The committee is currently reviewing the proposed changes to the company's leave policy.", "original": "proposed", "alternatives": ["propose", "advise"]}
+{"sentence": "During the meeting, Sarah proposed an innovative solution to the scheduling problem.", "original": "proposed", "alternatives": ["propose", "advise"]}
+{"sentence": "The city council discussed the proposed plan for a new public park.", "original": "proposed", "alternatives": ["propose", "advise"]}
+{"sentence": "I woke up with a terrible headache after a restless night's sleep.", "original": "terrible", "alternatives": ["fearsome", "horrendous", "fearful"]}
+{"sentence": "The traffic on the highway was absolutely terrible, delaying everyone by hours.", "original": "terrible", "alternatives": ["fearsome", "horrendous", "fearful"]}
+{"sentence": "The initial reviews for the new video game were surprisingly terrible.", "original": "terrible", "alternatives": ["fearsome", "horrendous", "fearful"]}
+{"sentence": "After a long week of exams, I felt completely tired and just wanted to relax.", "original": "tired", "alternatives": ["weary"]}
+{"sentence": "He looked tired but insisted on finishing the report before going home.", "original": "tired", "alternatives": ["weary"]}
+{"sentence": "Getting enough sleep is crucial to avoid feeling constantly tired and sluggish.", "original": "tired", "alternatives": ["weary"]}
+{"sentence": "Please ensure all documents are signed before submitting your application.", "original": "ensure", "alternatives": ["insure", "assure"]}
+{"sentence": "We need to ensure that the new software is fully compatible with our existing systems.", "original": "ensure", "alternatives": ["insure", "assure"]}
+{"sentence": "Eating a healthy breakfast will help ensure you have energy throughout the morning.", "original": "ensure", "alternatives": ["insure", "assure"]}
+{"sentence": "The IT department finally fixed the network issue that was causing so many problems.", "original": "fixed", "alternatives": ["restore"]}
+{"sentence": "My grandmother fixed me a delicious home-cooked meal after I arrived.", "original": "fixed", "alternatives": ["restore"]}
+{"sentence": "The school has a fixed schedule for extracurricular activities every Tuesday.", "original": "fixed", "alternatives": ["restore"]}
+{"sentence": "The new policy is primarily intended to improve employee work-life balance.", "original": "intended", "alternatives": ["intend"]}
+{"sentence": "This book was originally intended for a younger audience, but adults enjoy it too.", "original": "intended", "alternatives": ["intend"]}
+{"sentence": "The software update was intended to fix bugs, but it introduced a new glitch instead.", "original": "intended", "alternatives": ["intend"]}
+{"sentence": "The teacher noted his improvement in math class.", "original": "noted", "alternatives": ["observe"]}
+{"sentence": "I noted a significant change in her behavior.", "original": "noted", "alternatives": ["observe"]}
+{"sentence": "The report noted several key findings.", "original": "noted", "alternatives": ["observe"]}
+{"sentence": "She combined the flour and sugar in a bowl.", "original": "combined", "alternatives": ["unite"]}
+{"sentence": "The team combined their efforts to finish on time.", "original": "combined", "alternatives": ["unite"]}
+{"sentence": "Our travel plan combined a city trip with a beach holiday.", "original": "combined", "alternatives": ["unite"]}
+{"sentence": "This bottle contains purified water.", "original": "contains", "alternatives": ["comprise", "incorporate"]}
+{"sentence": "The document contains all the necessary information.", "original": "contains", "alternatives": ["comprise", "incorporate"]}
+{"sentence": "The recipe contains several exotic spices.", "original": "contains", "alternatives": ["comprise", "incorporate"]}
+{"sentence": "Dark clouds formed quickly before the storm.", "original": "formed", "alternatives": ["organise", "organize"]}
+{"sentence": "They formed a new study group for the exam.", "original": "formed", "alternatives": ["organise", "organize"]}
+{"sentence": "The committee formed a proposal for the budget.", "original": "formed", "alternatives": ["organise", "organize"]}
+{"sentence": "The singer performed beautifully at the concert.", "original": "performed", "alternatives": ["execute"]}
+{"sentence": "The surgeon performed the operation with precision.", "original": "performed", "alternatives": ["execute"]}
+{"sentence": "Students performed several experiments in the lab.", "original": "performed", "alternatives": ["execute"]}
+{"sentence": "He suggested a new route for our road trip.", "original": "suggested", "alternatives": ["propose", "advise"]}
+{"sentence": "The doctor suggested some exercises for my back.", "original": "suggested", "alternatives": ["propose", "advise"]}
+{"sentence": "My colleague suggested we try a different approach.", "original": "suggested", "alternatives": ["propose", "advise"]}
+{"sentence": "My grandmother taught me how to bake bread.", "original": "taught", "alternatives": ["instruct"]}
+{"sentence": "The professor taught an excellent course on history.", "original": "taught", "alternatives": ["instruct"]}
+{"sentence": "Life has taught her many valuable lessons.", "original": "taught", "alternatives": ["instruct"]}
+{"sentence": "She applied for a grant to fund her research.", "original": "applied", "alternatives": ["utilise", "utilize"]}
+{"sentence": "He carefully applied the paint to the canvas.", "original": "applied", "alternatives": ["utilise", "utilize"]}
+{"sentence": "We applied the new strategy to boost sales.", "original": "applied", "alternatives": ["utilise", "utilize"]}
+{"sentence": "I confirmed my flight reservation this morning.", "original": "confirmed", "alternatives": ["substantiate", "corroborate", "affirm"]}
+{"sentence": "The police confirmed the details of the incident.", "original": "confirmed", "alternatives": ["substantiate", "corroborate", "affirm"]}
+{"sentence": "The email confirmed the meeting time for next week.", "original": "confirmed", "alternatives": ["substantiate", "corroborate", "affirm"]}
+{"sentence": "I have a question regarding my recent order.", "original": "regarding", "alternatives": ["reckon"]}
+{"sentence": "The manager sent an update regarding the project timeline.", "original": "regarding", "alternatives": ["reckon"]}
+{"sentence": "We spoke briefly regarding his future plans.", "original": "regarding", "alternatives": ["reckon"]}
+{"sentence": "This recipe requires fresh ingredients for the best flavor.", "original": "requires", "alternatives": ["necessitate"]}
+{"sentence": "My new job requires a lot of traveling.", "original": "requires", "alternatives": ["necessitate"]}
+{"sentence": "The software update requires a full system restart.", "original": "requires", "alternatives": ["necessitate"]}
+{"sentence": "She saved enough money for a down payment on a house.", "original": "saved", "alternatives": ["relieve"]}
+{"sentence": "I accidentally deleted the file before it was saved.", "original": "saved", "alternatives": ["relieve"]}
+{"sentence": "The quick thinking of the driver saved them from an accident.", "original": "saved", "alternatives": ["relieve"]}
+{"sentence": "I found the hotel bed incredibly comfortable after a long journey.", "original": "comfortable", "alternatives": ["comfy"]}
+{"sentence": "He felt comfortable sharing his opinions during the team meeting.", "original": "comfortable", "alternatives": ["comfy"]}
+{"sentence": "Wear comfortable shoes if you plan to walk around the city all day.", "original": "comfortable", "alternatives": ["comfy"]}
+{"sentence": "The students will perform a play for their parents next week.", "original": "perform", "alternatives": ["execute"]}
+{"sentence": "I need to perform well on this test to pass the course.", "original": "perform", "alternatives": ["execute"]}
+{"sentence": "Our new printer can perform multiple functions, including scanning and copying.", "original": "perform", "alternatives": ["execute"]}
+{"sentence": "The company is deeply committed to sustainability initiatives.", "original": "committed", "alternatives": ["perpetrate"]}
+{"sentence": "He committed himself to learning a new language this year.", "original": "committed", "alternatives": ["perpetrate"]}
+{"sentence": "The detective believed the suspect had committed the crime.", "original": "committed", "alternatives": ["perpetrate"]}
+{"sentence": "The new evidence revealed a crucial detail in the cold case.", "original": "revealed", "alternatives": ["unveil", "uncover"]}
+{"sentence": "Her smile revealed her true happiness at the news.", "original": "revealed", "alternatives": ["unveil", "uncover"]}
+{"sentence": "Scientific studies have revealed new insights into ancient civilizations.", "original": "revealed", "alternatives": ["unveil", "uncover"]}
+{"sentence": "My manager approved my request for vacation time next month.", "original": "approved", "alternatives": ["approve"]}
+{"sentence": "The city council approved the budget for the new park.", "original": "approved", "alternatives": ["approve"]}
+{"sentence": "We're still waiting for our loan application to be approved.", "original": "approved", "alternatives": ["approve"]}
+{"sentence": "The police arrested the suspect shortly after the incident.", "original": "arrested", "alternatives": ["apprehend", "nab"]}
+{"sentence": "Several protesters were arrested during the demonstration.", "original": "arrested", "alternatives": ["apprehend", "nab"]}
+{"sentence": "He was arrested for shoplifting a few years ago.", "original": "arrested", "alternatives": ["apprehend", "nab"]}
+{"sentence": "I'm considering a career change after working here for five years.", "original": "considering", "alternatives": ["reckon"]}
+{"sentence": "She is considering buying a new car next spring.", "original": "considering", "alternatives": ["reckon"]}
+{"sentence": "We are considering all the options before making a final decision.", "original": "considering", "alternatives": ["reckon"]}
+{"sentence": "She was determined to finish the marathon, no matter how tired she got.", "original": "determined", "alternatives": ["ascertain"]}
+{"sentence": "The scientists determined the age of the artifact using carbon dating.", "original": "determined", "alternatives": ["ascertain"]}
+{"sentence": "The committee determined that the project would proceed as planned.", "original": "determined", "alternatives": ["ascertain"]}
+{"sentence": "Our flight was delayed, so we had an extended layover in Frankfurt.", "original": "extended", "alternatives": ["widen", "broaden"]}
+{"sentence": "The team requested an extended deadline for the project due to unforeseen complications.", "original": "extended", "alternatives": ["widen", "broaden"]}
+{"sentence": "She enjoyed an extended visit with her grandchildren over the summer holidays.", "original": "extended", "alternatives": ["widen", "broaden"]}
+{"sentence": "I prepared a large mixed salad for dinner, combining various greens and vegetables.", "original": "mixed", "alternatives": ["commingle", "conflate", "coalesce"]}
+{"sentence": "The reviews for the new curriculum were mixed, with some students loving it and others finding it too challenging.", "original": "mixed", "alternatives": ["commingle", "conflate", "coalesce"]}
+{"sentence": "He felt a mixed sense of relief and sadness upon graduating from college.", "original": "mixed", "alternatives": ["commingle", "conflate", "coalesce"]}
+{"sentence": "Always choose a strong, unique password to help secure your online accounts.", "original": "secure", "alternatives": ["procure"]}
+{"sentence": "The company worked hard to secure a new contract with a major client.", "original": "secure", "alternatives": ["procure"]}
+{"sentence": "Make sure the front door is locked and secure before you leave the house.", "original": "secure", "alternatives": ["procure"]}
+{"sentence": "She has collected stamps from all over the world since childhood.", "original": "collected", "alternatives": ["amass", "compile", "accumulate"]}
+{"sentence": "The researchers collected data from over a thousand participants for the study.", "original": "collected", "alternatives": ["amass", "compile", "accumulate"]}
+{"sentence": "Despite the chaotic scene, the emergency responder remained calm and collected.", "original": "collected", "alternatives": ["amass", "compile", "accumulate"]}
+{"sentence": "Scientists are trying to determine the exact cause of the mysterious illness.", "original": "determine", "alternatives": ["ascertain"]}
+{"sentence": "We need to determine the budget for the new marketing campaign by next week.", "original": "determine", "alternatives": ["ascertain"]}
+{"sentence": "A compass can help you determine your direction when hiking in unfamiliar territory.", "original": "determine", "alternatives": ["ascertain"]}
+{"sentence": "I completely forgot about the test until my friend reminded me this morning.", "original": "forgot", "alternatives": ["bury"]}
+{"sentence": "He forgot to attach the file to the email, so I had to resend it.", "original": "forgot", "alternatives": ["bury"]}
+{"sentence": "She packed everything but somehow forgot her toothbrush for the trip.", "original": "forgot", "alternatives": ["bury"]}
+{"sentence": "The view from the mountain summit was absolutely incredible.", "original": "incredible", "alternatives": ["unbelievable"]}
+{"sentence": "His dedication to the project showed an incredible level of commitment.", "original": "incredible", "alternatives": ["unbelievable"]}
+{"sentence": "I heard an incredible story about a man who survived weeks lost in the wilderness.", "original": "incredible", "alternatives": ["unbelievable"]}
+{"sentence": "Her artwork was deeply inspired by the vibrant colors of the ocean.", "original": "inspired", "alternatives": ["invigorate", "enliven", "exalt"]}
+{"sentence": "The manager's passionate speech inspired the team to work even harder.", "original": "inspired", "alternatives": ["invigorate", "enliven", "exalt"]}
+{"sentence": "Reading about his journey really inspired me to start exercising more.", "original": "inspired", "alternatives": ["invigorate", "enliven", "exalt"]}
+{"sentence": "I noticed a new coffee shop had opened on my way to work today.", "original": "noticed", "alternatives": ["detect", "observe"]}
+{"sentence": "Everyone at the party noticed her stunning new hairstyle.", "original": "noticed", "alternatives": ["detect", "observe"]}
+{"sentence": "The IT department noticed unusual activity on the network last night.", "original": "noticed", "alternatives": ["detect", "observe"]}
+{"sentence": "The contractor estimated the cost of the renovation at around $10,000.", "original": "estimated", "alternatives": ["approximate"]}
+{"sentence": "Researchers estimated that the population of that bird species has declined by 50%.", "original": "estimated", "alternatives": ["approximate"]}
+{"sentence": "We estimated the drive would take about three hours, but traffic made it longer.", "original": "estimated", "alternatives": ["approximate"]}
+{"sentence": "This new policy brings several positive changes to our community.", "original": "brings", "alternatives": ["convey"]}
+{"sentence": "Traveling often brings unexpected adventures and challenges.", "original": "brings", "alternatives": ["convey"]}
+{"sentence": "A good night's sleep brings mental clarity and improved focus.", "original": "brings", "alternatives": ["convey"]}
+{"sentence": "The old bridge was intentionally destroyed to make way for a new one.", "original": "destroyed", "alternatives": ["destruct"]}
+{"sentence": "A powerful virus destroyed all the data on his hard drive.", "original": "destroyed", "alternatives": ["destruct"]}
+{"sentence": "The wildfire tragically destroyed many homes in the area.", "original": "destroyed", "alternatives": ["destruct"]}
+{"sentence": "Her test scores significantly improved after she joined the study group.", "original": "improved", "alternatives": ["ameliorate", "amend"]}
+{"sentence": "The new operating system greatly improved my computer's speed.", "original": "improved", "alternatives": ["ameliorate", "amend"]}
+{"sentence": "Doctors confirmed that his health condition has considerably improved.", "original": "improved", "alternatives": ["ameliorate", "amend"]}
+{"sentence": "We often celebrate Jewish holidays with our friends.", "original": "jewish", "alternatives": ["judaic"]}
+{"sentence": "The city has a rich history, including a vibrant Jewish quarter.", "original": "jewish", "alternatives": ["judaic"]}
+{"sentence": "She is studying Jewish culture and traditions at university.", "original": "jewish", "alternatives": ["judaic"]}
+{"sentence": "I was really scared during the turbulent airplane ride.", "original": "scared", "alternatives": ["frighten"]}
+{"sentence": "The sudden loud noise made the cat scared.", "original": "scared", "alternatives": ["frighten"]}
+{"sentence": "He felt scared about starting his new job in a foreign country.", "original": "scared", "alternatives": ["frighten"]}
+{"sentence": "She was recently appointed head of the marketing department.", "original": "appointed", "alternatives": ["nominate", "appoint", "constitute"]}
+{"sentence": "A special committee was appointed to investigate the issue.", "original": "appointed", "alternatives": ["nominate", "appoint", "constitute"]}
+{"sentence": "The new ambassador was officially appointed last week.", "original": "appointed", "alternatives": ["nominate", "appoint", "constitute"]}
+{"sentence": "The security personnel were clearly armed at the entrance.", "original": "armed", "alternatives": ["gird", "fortify"]}
+{"sentence": "The soldiers were heavily armed for their peacekeeping mission.", "original": "armed", "alternatives": ["gird", "fortify"]}
+{"sentence": "The museum uses armed guards to protect its valuable artifacts.", "original": "armed", "alternatives": ["gird", "fortify"]}
+{"sentence": "We thoroughly enjoyed the concert last Saturday evening.", "original": "enjoyed", "alternatives": ["bask"]}
+{"sentence": "Despite the rain, they enjoyed their hike in the mountains.", "original": "enjoyed", "alternatives": ["bask"]}
+{"sentence": "My son really enjoyed playing with his new remote-control car.", "original": "enjoyed", "alternatives": ["bask"]}
+{"sentence": "The teacher clearly explained the complex scientific concept.", "original": "explained", "alternatives": ["explicate"]}
+{"sentence": "He carefully explained the new software features to the team.", "original": "explained", "alternatives": ["explicate"]}
+{"sentence": "She patiently explained her reasons for wanting to travel alone.", "original": "explained", "alternatives": ["explicate"]}
+{"sentence": "I completely fucked up the recipe for dinner.", "original": "fucked", "alternatives": ["eff"]}
+{"sentence": "The project is totally fucked if we miss that deadline.", "original": "fucked", "alternatives": ["eff"]}
+{"sentence": "My old laptop is pretty much fucked after the power surge.", "original": "fucked", "alternatives": ["eff"]}
+{"sentence": "I *realized* I forgot my keys only after closing the front door.", "original": "realized", "alternatives": ["recognise"]}
+{"sentence": "She *realized* the importance of data backup after her hard drive crashed.", "original": "realized", "alternatives": ["recognise"]}
+{"sentence": "We *realized* how vast the desert was as we drove for hours without seeing another car.", "original": "realized", "alternatives": ["recognise"]}
+{"sentence": "The price for the new smartphone seemed quite *reasonable* given its features.", "original": "reasonable", "alternatives": ["sensible"]}
+{"sentence": "Our boss is very *reasonable* and always listens to employee feedback.", "original": "reasonable", "alternatives": ["sensible"]}
+{"sentence": "Finding a *reasonable* hotel within walking distance of the main attractions can be a challenge.", "original": "reasonable", "alternatives": ["sensible"]}
+{"sentence": "I have to *admit* that I'm not a morning person.", "original": "admit", "alternatives": ["acknowledge"]}
+{"sentence": "He was reluctant to *admit* he needed help with the math problem.", "original": "admit", "alternatives": ["acknowledge"]}
+{"sentence": "The company had to *admit* there was a minor flaw in their new software update.", "original": "admit", "alternatives": ["acknowledge"]}
+{"sentence": "Our team is *dedicated* to providing excellent customer service.", "original": "dedicated", "alternatives": ["consecrate", "dedicate", "devote"]}
+{"sentence": "She is a very *dedicated* runner and trains every single day.", "original": "dedicated", "alternatives": ["consecrate", "dedicate", "devote"]}
+{"sentence": "The new server room is *dedicated* to handling all the website's traffic.", "original": "dedicated", "alternatives": ["consecrate", "dedicate", "devote"]}
+{"sentence": "As a lawyer, she will *represent* her client in court.", "original": "represent", "alternatives": ["correspond"]}
+{"sentence": "The captain will *represent* the team at the awards ceremony.", "original": "represent", "alternatives": ["correspond"]}
+{"sentence": "The colors of the flag *represent* the history and values of the nation.", "original": "represent", "alternatives": ["correspond"]}
+{"sentence": "All new employees are *trained* extensively on the company's software.", "original": "trained", "alternatives": ["educate"]}
+{"sentence": "The athlete *trained* for years to compete in the Olympics.", "original": "trained", "alternatives": ["educate"]}
+{"sentence": "Our dog is well-*trained* and never jumps on guests.", "original": "trained", "alternatives": ["educate"]}
+{"sentence": "With hard work, you can *achieve* any academic goal.", "original": "achieve", "alternatives": ["attain", "accomplish"]}
+{"sentence": "The sales team aims to *achieve* their quarterly targets early this year.", "original": "achieve", "alternatives": ["attain", "accomplish"]}
+{"sentence": "Regular exercise helps you *achieve* a healthier lifestyle.", "original": "achieve", "alternatives": ["attain", "accomplish"]}
+{"sentence": "Don't *assume* anything; always ask for clarification.", "original": "assume", "alternatives": ["presume"]}
+{"sentence": "We *assume* the project will be completed on time, but unforeseen issues might arise.", "original": "assume", "alternatives": ["presume"]}
+{"sentence": "It's safer not to *assume* local customs are the same as your own.", "original": "assume", "alternatives": ["presume"]}
+{"sentence": "*Unlike* my brother, I prefer quiet evenings at home.", "original": "unlike", "alternatives": ["dissimilar"]}
+{"sentence": "The new operating system is *unlike* any previous version, with a completely redesigned interface.", "original": "unlike", "alternatives": ["dissimilar"]}
+{"sentence": "The landscape was *unlike* anything I had ever seen before.", "original": "unlike", "alternatives": ["dissimilar"]}
+{"sentence": "The project scope was clearly *defined* from the very beginning.", "original": "defined", "alternatives": ["delimit", "delineate", "specify"]}
+{"sentence": "Each function in the programming language is precisely *defined*.", "original": "defined", "alternatives": ["delimit", "delineate", "specify"]}
+{"sentence": "A healthy diet is often *defined* by a balance of various food groups.", "original": "defined", "alternatives": ["delimit", "delineate", "specify"]}
+{"sentence": "Can you describe your project's goals in more detail?", "original": "describe", "alternatives": ["depict"]}
+{"sentence": "It's hard to describe the beauty of the Grand Canyon; you have to see it.", "original": "describe", "alternatives": ["depict"]}
+{"sentence": "Please describe the person you saw at the park to the police artist.", "original": "describe", "alternatives": ["depict"]}
+{"sentence": "Her science fair project was absolutely brilliant and won first prize.", "original": "brilliant", "alternatives": ["superb"]}
+{"sentence": "The new software update has a brilliant feature for data visualization.", "original": "brilliant", "alternatives": ["superb"]}
+{"sentence": "We had a brilliant idea to combine the two recipes for dinner.", "original": "brilliant", "alternatives": ["superb"]}
+{"sentence": "The company CEO officially declared the new policy effective immediately.", "original": "declared", "alternatives": ["declare"]}
+{"sentence": "The doctor declared the patient to be in stable condition after the surgery.", "original": "declared", "alternatives": ["declare"]}
+{"sentence": "Upon arrival, she declared several items to customs officials.", "original": "declared", "alternatives": ["declare"]}
+{"sentence": "My shoes got dirty walking through the muddy field yesterday.", "original": "dirty", "alternatives": ["colly"]}
+{"sentence": "We need to clean up this dirty workspace before the inspection.", "original": "dirty", "alternatives": ["colly"]}
+{"sentence": "Always wash your hands after touching dirty surfaces to prevent illness.", "original": "dirty", "alternatives": ["colly"]}
+{"sentence": "That was a pretty dumb mistake, forgetting my keys again.", "original": "dumb", "alternatives": ["dense"]}
+{"sentence": "He felt a little dumb for not studying harder for the history test.", "original": "dumb", "alternatives": ["dense"]}
+{"sentence": "Some old software can make your computer feel incredibly dumb and slow.", "original": "dumb", "alternatives": ["dense"]}
+{"sentence": "Our next vacation to Japan sounds incredibly exciting.", "original": "exciting", "alternatives": ["excite"]}
+{"sentence": "We have an exciting new opportunity to expand into international markets.", "original": "exciting", "alternatives": ["excite"]}
+{"sentence": "Learning about space exploration is always exciting for young students.", "original": "exciting", "alternatives": ["excite"]}
+{"sentence": "She decided to quit her job to pursue her passion for art.", "original": "quit", "alternatives": ["discontinue"]}
+{"sentence": "Many people find it difficult to quit smoking, but it's worth the effort.", "original": "quit", "alternatives": ["discontinue"]}
+{"sentence": "I had to quit playing the game because my battery died.", "original": "quit", "alternatives": ["discontinue"]}
+{"sentence": "The children found the hidden Easter eggs in the garden.", "original": "hidden", "alternatives": ["conceal"]}
+{"sentence": "There are many hidden features in this operating system.", "original": "hidden", "alternatives": ["conceal"]}
+{"sentence": "We discovered a beautiful, hidden beach while exploring the coastline.", "original": "hidden", "alternatives": ["conceal"]}
+{"sentence": "Our union effectively represented the workers' interests during negotiations.", "original": "represented", "alternatives": ["correspond"]}
+{"sentence": "The school's logo proudly represented its long history and values.", "original": "represented", "alternatives": ["correspond"]}
+{"sentence": "Each data point on the graph represented a unique user interaction.", "original": "represented", "alternatives": ["correspond"]}
+{"sentence": "I was wondering if you wanted to grab coffee later today.", "original": "wondering", "alternatives": ["enquire", "inquire"]}
+{"sentence": "She spent the flight wondering about all the sights she would see.", "original": "wondering", "alternatives": ["enquire", "inquire"]}
+{"sentence": "Our team is wondering how to improve efficiency in the next quarter.", "original": "wondering", "alternatives": ["enquire", "inquire"]}
+{"sentence": "Please make sure the file is properly attached to the email.", "original": "attached", "alternatives": ["attach"]}
+{"sentence": "The label was securely attached to the package for shipping.", "original": "attached", "alternatives": ["attach"]}
+{"sentence": "She felt deeply attached to her old teddy bear.", "original": "attached", "alternatives": ["attach"]}
+{"sentence": "The city was attacked by a sudden storm last night.", "original": "attacked", "alternatives": ["assail"]}
+{"sentence": "Our computer network was unfortunately attacked by a virus.", "original": "attacked", "alternatives": ["assail"]}
+{"sentence": "The brave little dog fearlessly attacked the intruder.", "original": "attacked", "alternatives": ["assail"]}
+{"sentence": "We need to destroy these old documents before we move.", "original": "destroy", "alternatives": ["destruct"]}
+{"sentence": "The goal of the game is to destroy the enemy's base.", "original": "destroy", "alternatives": ["destruct"]}
+{"sentence": "Scientists are trying to find ways to destroy plastic waste more efficiently.", "original": "destroy", "alternatives": ["destruct"]}
+{"sentence": "All the students were actively engaged in the classroom discussion.", "original": "engaged", "alternatives": ["prosecute"]}
+{"sentence": "My best friend just announced that she's engaged to her boyfriend.", "original": "engaged", "alternatives": ["prosecute"]}
+{"sentence": "I tried calling the bank, but the line was engaged for a long time.", "original": "engaged", "alternatives": ["prosecute"]}
+{"sentence": "She clearly expressed her concerns about the project deadline.", "original": "expressed", "alternatives": ["evince"]}
+{"sentence": "The artist expressed complex emotions through his vivid painting.", "original": "expressed", "alternatives": ["evince"]}
+{"sentence": "He expressed his gratitude to everyone who helped him during his recovery.", "original": "expressed", "alternatives": ["evince"]}
+{"sentence": "I didn't recognize her at first because she had changed her hair.", "original": "recognize", "alternatives": ["recognise"]}
+{"sentence": "The school will recognize the top academic performers at graduation.", "original": "recognize", "alternatives": ["recognise"]}
+{"sentence": "Facial recognition technology can help us recognize people in crowds.", "original": "recognize", "alternatives": ["recognise"]}
+{"sentence": "Her hard work was finally recognized with a promotion.", "original": "recognized", "alternatives": ["recognise"]}
+{"sentence": "He immediately recognized the familiar melody playing on the radio.", "original": "recognized", "alternatives": ["recognise"]}
+{"sentence": "The doctor quickly recognized the symptoms of the rare illness.", "original": "recognized", "alternatives": ["recognise"]}
+{"sentence": "The small town suffered greatly from the recent flood.", "original": "suffered", "alternatives": ["endure"]}
+{"sentence": "Many businesses suffered significant losses during the pandemic.", "original": "suffered", "alternatives": ["endure"]}
+{"sentence": "She suffered a minor injury playing soccer last weekend.", "original": "suffered", "alternatives": ["endure"]}
+{"sentence": "It's amazing how some plants manage to survive in the desert.", "original": "survive", "alternatives": ["endure"]}
+{"sentence": "The company must adapt quickly to survive in the competitive market.", "original": "survive", "alternatives": ["endure"]}
+{"sentence": "He was lucky to survive the car accident with only minor scratches.", "original": "survive", "alternatives": ["endure"]}
+{"sentence": "They recently adopted a beautiful kitten from the shelter.", "original": "adopted", "alternatives": ["espouse"]}
+{"sentence": "The city council adopted a new recycling policy last month.", "original": "adopted", "alternatives": ["espouse"]}
+{"sentence": "Many schools have adopted tablets for students' learning.", "original": "adopted", "alternatives": ["espouse"]}
+{"sentence": "Some people act like they are entitled to special treatment.", "original": "entitled", "alternatives": ["entitle"]}
+{"sentence": "As an employee, you might be entitled to a certain number of vacation days per year.", "original": "entitled", "alternatives": ["entitle"]}
+{"sentence": "The book was entitled 'The Secret Garden.'", "original": "entitled", "alternatives": ["entitle"]}
+{"sentence": "The player was injured during the game and had to leave the field.", "original": "injured", "alternatives": ["injure"]}
+{"sentence": "She felt injured by his thoughtless comments about her work.", "original": "injured", "alternatives": ["injure"]}
+{"sentence": "Thankfully, no one was seriously injured in the car accident.", "original": "injured", "alternatives": ["injure"]}
+{"sentence": "Many citizens were strongly opposed to the new tax proposal.", "original": "opposed", "alternatives": ["oppose"]}
+{"sentence": "My parents were initially opposed to me taking a gap year.", "original": "opposed", "alternatives": ["oppose"]}
+{"sentence": "The two forces were opposed, causing the object to remain stationary.", "original": "opposed", "alternatives": ["oppose"]}
+{"sentence": "She is incredibly organized and always meets her deadlines.", "original": "organized", "alternatives": ["organise", "organize"]}
+{"sentence": "They successfully organized a charity run for the local hospital.", "original": "organized", "alternatives": ["organise", "organize"]}
+{"sentence": "My desk is rarely this organized, but I just tidied it up.", "original": "organized", "alternatives": ["organise", "organize"]}
+{"sentence": "Witnesses must swear to tell the truth in court.", "original": "swear", "alternatives": ["blaspheme"]}
+{"sentence": "I swear I didn't touch your last piece of cake.", "original": "swear", "alternatives": ["blaspheme"]}
+{"sentence": "Please try not to swear so much, especially around the children.", "original": "swear", "alternatives": ["blaspheme"]}
+{"sentence": "The bottle might contain hazardous chemicals, so be careful.", "original": "contain", "alternatives": ["comprise", "incorporate"]}
+{"sentence": "He struggled to contain his excitement about the trip.", "original": "contain", "alternatives": ["comprise", "incorporate"]}
+{"sentence": "This recipe does not contain any nuts, making it safe for allergies.", "original": "contain", "alternatives": ["comprise", "incorporate"]}
+{"sentence": "The artist created a stunning visual display for the museum exhibit.", "original": "visual", "alternatives": ["optical"]}
+{"sentence": "The presentation included strong visual aids to explain complex data.", "original": "visual", "alternatives": ["optical"]}
+{"sentence": "Some people have a hard time with visual tasks after staring at screens all day.", "original": "visual", "alternatives": ["optical"]}
+{"sentence": "She achieved excellent grades in all her final exams.", "original": "achieved", "alternatives": ["attain", "accomplish"]}
+{"sentence": "Landing that big client was a huge milestone he achieved this year.", "original": "achieved", "alternatives": ["attain", "accomplish"]}
+{"sentence": "Despite the challenges, they finally achieved their dream of hiking Mount Everest.", "original": "achieved", "alternatives": ["attain", "accomplish"]}
+{"sentence": "We plan to celebrate our anniversary with a quiet dinner at home.", "original": "celebrate", "alternatives": ["observe"]}
+{"sentence": "The team decided to celebrate their project's success with a small party.", "original": "celebrate", "alternatives": ["observe"]}
+{"sentence": "Many cultures around the world celebrate the arrival of spring.", "original": "celebrate", "alternatives": ["observe"]}
+{"sentence": "They faced significant difficulties during the construction phase.", "original": "faced", "alternatives": ["confront"]}
+{"sentence": "The house faced west, getting beautiful sunsets every evening.", "original": "faced", "alternatives": ["confront"]}
+{"sentence": "She faced her fears and spoke in front of the large audience.", "original": "faced", "alternatives": ["confront"]}
+{"sentence": "The soldiers fought bravely during the long battle.", "original": "fought", "alternatives": ["contend"]}
+{"sentence": "She fought hard against the illness for months.", "original": "fought", "alternatives": ["contend"]}
+{"sentence": "Our team fought back in the second half to tie the game.", "original": "fought", "alternatives": ["contend"]}
+{"sentence": "He gained a lot of experience working on that project.", "original": "gained", "alternatives": ["derive"]}
+{"sentence": "Traveling abroad, I gained a new appreciation for different cultures.", "original": "gained", "alternatives": ["derive"]}
+{"sentence": "After starting the new diet, she quickly gained muscle mass.", "original": "gained", "alternatives": ["derive"]}
+{"sentence": "My friend promised to help me move this weekend.", "original": "promised", "alternatives": ["assure"]}
+{"sentence": "The new software promised to simplify complex tasks.", "original": "promised", "alternatives": ["assure"]}
+{"sentence": "The teacher promised extra credit for the best presentation.", "original": "promised", "alternatives": ["assure"]}
+{"sentence": "She studied late into the night for her final exam.", "original": "studied", "alternatives": ["analyse", "analyze"]}
+{"sentence": "The team carefully studied the market trends before launching the product.", "original": "studied", "alternatives": ["analyse", "analyze"]}
+{"sentence": "I studied the instructions carefully before assembling the furniture.", "original": "studied", "alternatives": ["analyse", "analyze"]}
+{"sentence": "Recent research suggests a link between diet and mood.", "original": "suggests", "alternatives": ["propose", "advise"]}
+{"sentence": "The report suggests we re-evaluate our marketing strategy.", "original": "suggests", "alternatives": ["propose", "advise"]}
+{"sentence": "The cloudy sky suggests it might rain later today.", "original": "suggests", "alternatives": ["propose", "advise"]}
+{"sentence": "We enjoyed exploring the beautiful surrounding countryside.", "original": "surrounding", "alternatives": ["environ"]}
+{"sentence": "The crime rate in the surrounding neighborhoods has decreased.", "original": "surrounding", "alternatives": ["environ"]}
+{"sentence": "Understanding the surrounding political climate is crucial for this deal.", "original": "surrounding", "alternatives": ["environ"]}
+{"sentence": "The desert stretched out before us, a vast expanse of sand.", "original": "vast", "alternatives": ["immense"]}
+{"sentence": "The company stores a vast amount of customer data.", "original": "vast", "alternatives": ["immense"]}
+{"sentence": "He possesses a vast knowledge of ancient history.", "original": "vast", "alternatives": ["immense"]}
+{"sentence": "The dove often represents peace and hope.", "original": "represents", "alternatives": ["correspond"]}
+{"sentence": "She represents our department at the quarterly meetings.", "original": "represents", "alternatives": ["correspond"]}
+{"sentence": "Each bar on the graph represents a different category.", "original": "represents", "alternatives": ["correspond"]}
+{"sentence": "The unexpected rain led to a resulting delay in our travel plans.", "original": "resulting", "alternatives": ["ensue"]}
+{"sentence": "We analyzed the feedback and are now implementing the resulting changes.", "original": "resulting", "alternatives": ["ensue"]}
+{"sentence": "The surgery was successful, and the resulting recovery was quick.", "original": "resulting", "alternatives": ["ensue"]}
+{"sentence": "Setting up the new home theater system proved more complicated than expected.", "original": "complicated", "alternatives": ["perplex", "complicate"]}
+{"sentence": "Their family situation is a bit complicated right now.", "original": "complicated", "alternatives": ["perplex", "complicate"]}
+{"sentence": "The professor explained the complicated theory in simple terms.", "original": "complicated", "alternatives": ["perplex", "complicate"]}
